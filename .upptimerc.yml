@@ -12,6 +12,8 @@ sites:
   - name: AI Chat
     url: https://gpt.depoze.xyz
   - name: Bookmark
+    url: https://linkding.depoze.xyz
+  - name: RSS
     url: https://rss.depoze.xyz
   - name: RSSHub
     url: https://rsshub.depoze.xyz
