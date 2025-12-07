@@ -12,6 +12,8 @@ sites:
       - 200
       - 307
       - 404
+  - name: API Next
+    url: https://api-next.depoze.xyz
   - name: Blog
     url: https://blog.depoze.xyz
   - name: AI Chat
@@ -26,7 +28,7 @@ sites:
     url: https://status.depoze.xyz
   - name: Wakapi
     url: https://wakapi.depoze.xyz
-  - name: SECRET SITE EF3E69F0
+  - name: EF3E69F0
     url: $SECRET_SITE_EF3E69F0
 
 status-website:
