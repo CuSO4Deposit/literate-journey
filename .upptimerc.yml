@@ -30,6 +30,8 @@ sites:
     url: https://wakapi.depoze.xyz
   - name: EF3E69F0
     url: $SECRET_SITE_EF3E69F0
+  - name: 4A7C930F
+    url: $SECRET_SITE_4A7C930F
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
