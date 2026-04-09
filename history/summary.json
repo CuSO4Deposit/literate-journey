@@ -177,7 +177,7 @@
     "slug": "status",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.13%",
@@ -187,6 +187,7 @@
     "timeMonth": 166,
     "timeYear": 181,
     "dailyMinutesDown": {
+      "2026-04-09": 0,
       "2026-03-05": 75,
       "2026-01-31": 207,
       "2026-01-21": 101,
@@ -206,9 +207,9 @@
     "url": "https://wakapi.depoze.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/wakapi.depoze.xyz.ico",
     "slug": "wakapi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -218,6 +219,7 @@
     "timeMonth": 171,
     "timeYear": 194,
     "dailyMinutesDown": {
+      "2026-04-09": 0,
       "2025-11-18": 246
     }
   },
