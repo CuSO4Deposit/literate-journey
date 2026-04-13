@@ -1,7 +1,7 @@
 url: https://status.depoze.xyz
-status: up
-code: 200
-responseTime: 245
-lastUpdated: 2026-04-13T01:16:11.386Z
+status: down
+code: 503
+responseTime: 440
+lastUpdated: 2026-04-13T19:45:16.039Z
 startTime: 2025-10-24T07:26:20.848Z
 generator: Upptime <https://github.com/upptime/upptime>
