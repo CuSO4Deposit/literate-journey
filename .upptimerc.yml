@@ -7,13 +7,6 @@ sites:
     url: https://www.google.com
   - name: API
     url: https://api.depoze.xyz
-    expectedStatusCodes:
-      - 103
-      - 200
-      - 307
-      - 404
-  - name: API Next
-    url: https://api-next.depoze.xyz
   - name: Blog
     url: https://blog.depoze.xyz
   - name: AI Chat
@@ -30,10 +23,6 @@ sites:
     url: https://wakapi.depoze.xyz
   - name: EF3E69F0
     url: $SECRET_SITE_EF3E69F0
-  - name: 4A7C930F
-    url: $SECRET_SITE_4A7C930F
-    port: $SECRET_SITE_4A7C930F_PORT
-    check: "tcp-ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
