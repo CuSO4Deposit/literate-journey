@@ -9,8 +9,6 @@ sites:
     url: https://api.depoze.xyz
   - name: Blog
     url: https://blog.depoze.xyz
-  - name: AI Chat
-    url: https://gpt.depoze.xyz
   - name: Bookmark
     url: https://linkding.depoze.xyz
   - name: RSS
