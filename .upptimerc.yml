@@ -11,6 +11,10 @@ sites:
     url: https://blog.depoze.xyz
   - name: Bookmark
     url: https://linkding.depoze.xyz
+  - name: Element Web
+    url: https://element.depoze.xyz
+  - name: Matrix
+    url: https://matrix.hzhang.xyz
   - name: RSS
     url: https://rss.depoze.xyz
   - name: RSSHub
