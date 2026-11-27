@@ -124,23 +124,23 @@
     "url": "https://rss.depoze.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/rss.depoze.xyz.ico",
     "slug": "rss",
-    "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "83.36%",
-    "uptimeWeek": "97.62%",
-    "uptimeMonth": "98.70%",
-    "uptimeYear": "99.84%",
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "76.78%",
+    "uptimeWeek": "96.68%",
+    "uptimeMonth": "98.49%",
+    "uptimeYear": "99.82%",
     "time": 190,
-    "timeDay": 104,
-    "timeWeek": 160,
-    "timeMonth": 186,
+    "timeDay": 107,
+    "timeWeek": 154,
+    "timeMonth": 184,
     "timeYear": 188,
     "dailyMinutesDown": {
       "2026-01-09": 117,
       "2026-03-05": 75,
       "2026-06-28": 86,
       "2026-10-28": 329,
-      "2026-11-27": 240
+      "2026-11-27": 334
     }
   },
   {
@@ -167,11 +167,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.depoze.xyz.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "80.93%",
-    "uptimeDay": "83.35%",
-    "uptimeWeek": "97.62%",
-    "uptimeMonth": "96.45%",
-    "uptimeYear": "79.23%",
+    "uptime": "80.92%",
+    "uptimeDay": "76.78%",
+    "uptimeWeek": "96.68%",
+    "uptimeMonth": "96.23%",
+    "uptimeYear": "79.22%",
     "time": 180,
     "timeDay": 181,
     "timeWeek": 205,
@@ -268,7 +268,7 @@
       "2026-10-28": 329,
       "2026-11-18": 467,
       "2026-11-19": 520,
-      "2026-11-27": 240
+      "2026-11-27": 334
     }
   },
   {
