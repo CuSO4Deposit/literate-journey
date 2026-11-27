@@ -1,7 +1,7 @@
 url: https://rss.depoze.xyz
-status: up
-code: 200
-responseTime: 119
-lastUpdated: 2026-11-26T05:37:01.896Z
+status: down
+code: 500
+responseTime: 104
+lastUpdated: 2026-11-27T05:30:40.625Z
 startTime: 2025-10-24T07:31:40.064Z
 generator: Upptime <https://github.com/upptime/upptime>
